@@ -59,23 +59,6 @@ This platform solves that problem by enabling:
 
 ---
 
-## 🏗 Architecture Overview
-User Question
-↓
-Relevance Guard
-↓
-LLM → Generate Pandas Code
-↓
-Code Validation & Sanitization
-↓
-Secure Server-Side Execution (Sandbox)
-↓
-Business Summary + Technical Explanation
-↓
-Visualization + Transparency Metrics
-
----
-
 ## 🔐 Security Model
 
 - Server-side execution (Flask backend)
